@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name" translatable="false">My First Application</string>
+    <string name="button" translatable="false">Кнопка</string>
+    <string name="bye" translatable="false">Bye</string>
+
+    <string name="hello" translatable="false">Hello</string>
+    <string name="hello">Hello</string>
 </resources>

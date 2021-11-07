@@ -1,2 +1,4 @@
-package com.company.myfirstapp;public class MainActivityKt {
+package com.company.myfirstapp;
+
+public class MainActivityKt {
 }
